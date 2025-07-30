@@ -1,4 +1,5 @@
-Settings Configuration
+#Settings Configuration
+
 Update the following settings to configure the application correctly:
 
 {IntegrationKey}
