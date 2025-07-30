@@ -18,4 +18,4 @@ The account ID linked to your test user.
 The redirect URI used for embedded signing.
 For local development, set this to:
 
-http://localhost:5000/sign/completed
+http://localhost:50000/sign/completed
